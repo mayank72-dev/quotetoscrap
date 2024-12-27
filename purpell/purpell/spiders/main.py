@@ -49,6 +49,7 @@ rateing=select.xpath('//span[@class="star-rating bg-success rounded-4 fs-8 text-
 userreview=select.xpath('text-black-50 ms-1 fs-8 ng-star-inserted').get()
 
 
+
 print(price)
 print(name)
 # p.parse(response)
